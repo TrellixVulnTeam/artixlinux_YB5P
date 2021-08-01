@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/defqon/Downloads/.jpg" added="2021-07-05T01:14:53.219366Z" modified="2021-07-05T01:14:53.219371Z" visited="2021-07-05T01:14:53.219367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-05T01:14:53.219368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-alpha-0.8.2.diff" added="2021-07-05T01:28:52.039179Z" modified="2021-07-06T19:13:27.893198Z" visited="2021-07-05T01:28:52.039180Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T19:13:27.893191Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/dwm-alpha-6.1.diff" added="2021-07-05T01:43:57.128075Z" modified="2021-07-05T01:50:08.606045Z" visited="2021-07-05T01:43:57.128076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-05T01:50:08.606040Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/dwm-defaulttransparency-r1521.diff" added="2021-07-05T02:08:07.319023Z" modified="2021-07-05T02:08:07.319031Z" visited="2021-07-05T02:08:07.319024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-05T02:08:07.319027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-alpha-20190116-3be4cf1.diff" added="2021-07-05T02:17:45.916415Z" modified="2021-07-05T02:17:45.916422Z" visited="2021-07-05T02:17:45.916416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-05T02:17:45.916418Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-no_bold_colors-20170623-b331da5.diff" added="2021-07-06T17:52:51.369976Z" modified="2021-07-06T17:52:51.369985Z" visited="2021-07-06T17:52:51.369978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T17:52:51.369981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-no_bold_colors-0.8.1.diff" added="2021-07-06T17:56:01.599272Z" modified="2021-07-06T19:26:37.483837Z" visited="2021-07-06T17:56:01.599273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T19:26:37.483834Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-solarized-both-0.8.4.diff" added="2021-07-06T18:06:13.901370Z" modified="2021-07-06T18:09:33.681910Z" visited="2021-07-06T18:06:13.901371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T18:09:33.681908Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-solarized-dark-0.7.diff" added="2021-07-06T18:11:17.443903Z" modified="2021-07-06T19:26:50.119201Z" visited="2021-07-06T18:11:17.443905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T19:26:50.119197Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/st/st-alpha-0.8.2.diff" added="2021-07-06T18:44:20.039965Z" modified="2021-07-06T18:44:20.039973Z" visited="2021-07-06T18:44:20.039966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T18:44:20.039968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/st/st-no_bold_colors-0.8.1.diff" added="2021-07-06T18:48:05.931373Z" modified="2021-07-06T18:48:05.931380Z" visited="2021-07-06T18:48:05.931375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T18:48:05.931376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/st/st-solarized-both-0.8.4.diff" added="2021-07-06T18:48:46.476978Z" modified="2021-07-06T18:48:46.476988Z" visited="2021-07-06T18:48:46.476980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T18:48:46.476983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-solarized-dark-20180411-041912a.diff" added="2021-07-06T19:29:45.574775Z" modified="2021-07-06T19:29:45.574780Z" visited="2021-07-06T19:29:45.574776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T19:29:45.574777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/st-dracula-0.8.2.diff" added="2021-07-06T20:23:26.455435Z" modified="2021-07-06T20:23:26.455443Z" visited="2021-07-06T20:23:26.455437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-06T20:23:26.455439Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/libetc-0.4.tar.gz" added="2021-07-09T00:57:09.246646Z" modified="2021-07-09T01:14:48.257718Z" visited="2021-07-09T00:57:09.246646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-09T01:14:48.257716Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/python-pip-20.3.4-1-any.pkg.tar.zst" added="2021-07-16T00:16:30.422275Z" modified="2021-07-16T00:16:30.422280Z" visited="2021-07-16T00:16:30.422276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zstd-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-16T00:16:30.422277Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/Downloads/Python-3.9.6.tar.xz" added="2021-07-21T21:49:33.428165Z" modified="2021-07-21T21:49:33.428170Z" visited="2021-07-21T21:49:33.428166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-07-21T21:49:33.428168Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/defqon/config.h" added="2021-08-01T16:18:01.140636Z" modified="2021-08-01T16:18:01.140641Z" visited="2021-08-01T16:18:01.140637Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2021-08-01T16:18:01.140638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

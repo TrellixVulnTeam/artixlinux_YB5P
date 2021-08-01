@@ -1,0 +1,38 @@
+{
+	"stow-git": {
+		"git.savannah.gnu.org/stow.git": {
+			"protocols": [
+				"git"
+			],
+			"branch": "HEAD",
+			"sha": "9fd3624a755acee6c287c50f69497583db5998cd"
+		}
+	},
+	"xbindkeys-git": {
+		"git.savannah.nongnu.org/git/xbindkeys.git": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "75909d99b18ddc76c78bf7b9e184de46d3d24468"
+		}
+	},
+	"xcompmgr-git": {
+		"anongit.freedesktop.org/git/xorg/app/xcompmgr": {
+			"protocols": [
+				"git"
+			],
+			"branch": "HEAD",
+			"sha": "ccf46116f8fba6a3e32bff6b3c0be420f821828c"
+		}
+	},
+	"xwallpaper-git": {
+		"github.com/stoeckmann/xwallpaper": {
+			"protocols": [
+				"https"
+			],
+			"branch": "HEAD",
+			"sha": "421961892513eac3bbca4b997d21bd159752c9a8"
+		}
+	}
+}

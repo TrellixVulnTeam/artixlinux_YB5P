@@ -1,0 +1,18 @@
+2021/08/01-17:03:14.767 504 Reusing MANIFEST /home/defqon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/01-17:03:14.767 504 Recovering log #3
+2021/08/01-17:03:14.838 504 Reusing old log /home/defqon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/08/01-17:03:21.043 4ae Level-0 table #5: started
+2021/08/01-17:03:21.049 4ae Level-0 table #5: 250383 bytes OK
+2021/08/01-17:03:21.054 4ae Delete type=0 #3
+2021/08/01-17:03:21.054 4ae Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/01-17:03:21.165 4ae Level-0 table #7: started
+2021/08/01-17:03:21.171 4ae Level-0 table #7: 6561 bytes OK
+2021/08/01-17:03:21.175 4ae Delete type=0 #4
+2021/08/01-17:03:21.175 4ae Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/01-17:03:21.175 4ae Manual compaction at level-1 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 2008 : 1
+2021/08/01-17:03:21.175 4ae Compacting 1@1 + 1@2 files
+2021/08/01-17:03:21.182 4ae Generated table #8@1: 204 keys, 21954 bytes
+2021/08/01-17:03:21.182 4ae Compacted 1@1 + 1@2 files => 21954 bytes
+2021/08/01-17:03:21.193 4ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/01-17:03:21.193 4ae Delete type=2 #7
+2021/08/01-17:03:21.193 4ae Manual compaction at level-1 from '\x00\x09\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 2008 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2021/08/01-17:00:38.669 3 Reusing MANIFEST /home/defqon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/01-17:00:38.670 3 Recovering log #4
+2021/08/01-17:00:38.705 3 Reusing old log /home/defqon/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 
+2021/08/01-17:29:13.014 e Level-0 table #8: started
+2021/08/01-17:29:13.038 e Level-0 table #8: 89621 bytes OK
+2021/08/01-17:29:13.042 e Delete type=0 #4
